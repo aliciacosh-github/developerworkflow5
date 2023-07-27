@@ -1,0 +1,14 @@
+
+phrase:
+  access_token: 41ad73e38ce1e95c70d0d4522011be1ba9997963cb30e7a1066f4985d8fbe0ba
+  project_id: e34195000f8d6ce264d7200050b14086
+  push:
+    sources:
+    - file: ./<locale_name>.xlf
+      params:
+        file_format: xlf
+  pull:
+    targets:
+    - file: ./<locale_name>.xlf
+      params:
+        file_format: xlf
