@@ -1,0 +1,29 @@
+{
+  "app.agreement": {
+    "message": "J'ai lu et j'accepte les conditions d'utilisation et la politique de confidentialité de Nekocafé"
+  },
+  "app.email": {
+    "message": "your@email.com"
+  },
+  "app.email.address": {
+    "message": "Adresse e-mail"
+  },
+  "app.login": {
+    "message": "Vous avez déjà un compte ? Connectez-vous"
+  },
+  "app.offers": {
+    "message": "Je ne souhaite pas recevoir d'offres exclusives, de promotions, de rappels et plus encore concernant Nekocafé."
+  },
+  "app.password": {
+    "message": "Mot de passe"
+  },
+  "app.pwcharacters": {
+    "message": "Le mot de passe que vous avez choisi doit contenir au moins 8 caractères"
+  },
+  "app.signup": {
+    "message": "S'inscrire"
+  },
+  "app.username": {
+    "message": "Nom d'utilisateur"
+  }
+}
