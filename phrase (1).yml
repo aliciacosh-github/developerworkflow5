@@ -1,5 +1,5 @@
 phrase:
-  project_id: 2b9c598f0e951cfb2253c44ddae8b948
+  project_id: 7852f70b8c151e1741f03215061aee0e
   push:
     sources:
       - file: ./<locale_name>.xlf
